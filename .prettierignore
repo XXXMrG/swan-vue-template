@@ -2,5 +2,6 @@
 build
 coverage
 dist
+output
 pnpm-lock.yaml
 ci.yml
