@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# 当安装了 icode 的 hooks，打开这里的注释
+# sh .git/hooks/commit-msg "$@"
